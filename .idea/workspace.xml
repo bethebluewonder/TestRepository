@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="511696bc-353d-4f46-b741-88c531c8b6c3" name="Default" comment="测试stashca">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/neo/controller/HelloWorld2Controller.java" afterPath="$PROJECT_DIR$/src/main/java/com/neo/controller/HelloWorld2Controller.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neo/controller/HelloWorld2Controller.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neo/controller/HelloWorld3Controller.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,31 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HelloWorldController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HelloWorldController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/neo/controller/HelloWorldController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
               <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloWorld2Controller.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/neo/controller/HelloWorld2Controller.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloWorld3Controller.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/neo/controller/HelloWorld3Controller.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -321,7 +302,7 @@
       <updated>1591758179303</updated>
       <workItem from="1591758181509" duration="1800000" />
       <workItem from="1591760001931" duration="16074000" />
-      <workItem from="1595899557557" duration="4051000" />
+      <workItem from="1595899557557" duration="4166000" />
     </task>
     <task id="LOCAL-00001" summary="加入本地">
       <created>1591758637893</created>
@@ -418,7 +399,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21925000" />
+    <option name="totallyTimeSpent" value="22040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -502,11 +483,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#266#267#0" expanded="false" />
-            <element signature="e#302#303#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -537,10 +514,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/neo/controller/HelloWorld5Controller.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/neo/controller/HelloWorld4Controller.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neo/controller/HelloWorldController.java">
+    <entry file="file://$PROJECT_DIR$/a.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="23">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -553,15 +530,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neo/controller/HelloWorld2Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="207">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neo/controller/HelloWorld2Controller.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neo/controller/HelloWorldController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
