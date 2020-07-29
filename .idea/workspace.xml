@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="511696bc-353d-4f46-b741-88c531c8b6c3" name="Default" comment="测试stashca">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/neo/controller/HelloWorld2Controller.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/neo/controller/HelloWorld3Controller.java" afterPath="" />
-    </list>
+    <list default="true" id="511696bc-353d-4f46-b741-88c531c8b6c3" name="Default" comment="测试stashca" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -302,7 +299,7 @@
       <updated>1591758179303</updated>
       <workItem from="1591758181509" duration="1800000" />
       <workItem from="1591760001931" duration="16074000" />
-      <workItem from="1595899557557" duration="4166000" />
+      <workItem from="1595899557557" duration="4405000" />
     </task>
     <task id="LOCAL-00001" summary="加入本地">
       <created>1591758637893</created>
@@ -399,7 +396,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22040000" />
+    <option name="totallyTimeSpent" value="22279000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
